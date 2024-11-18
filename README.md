@@ -6,7 +6,7 @@ Challenge Cuatro de Seis | Formación Front-End | AluraGeek E-Commerce
 
 **Animate a probar mi Sitio Web :D**
 
-https://eduardout.github.io/AluraGeek-ONE-Alura_Challenge/
+https://marfer795.github.io/Alura_Geek_Challenge/
 
 **Datos para Login**
 
@@ -20,7 +20,7 @@ Contraseña:
 
 **Vista previa:**
 
-![Vista previa de AluraGeek E-Commerce](https://raw.githubusercontent.com/EduardoUT/AluraGeek-ONE-Alura_Challenge/master/assets/img/readme/AluraGeek.PNG)
+![Vista previa de AluraGeek E-Commerce](/assets/img/banner/)
 
 **Publicado en el topic:**
 
