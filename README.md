@@ -1,7 +1,7 @@
 Challenge Cuatro de Seis | Formación Front-End | AluraGeek E-Commerce
 
 # AluraGeek-ONE-Alura_Challenge
-![Challenge Alura Latam + Oracle](https://raw.githubusercontent.com/EduardoUT/AluraGeek-ONE-Alura_Challenge/master/assets/img/readme/challengeImage.jpg)
+![Challenge Alura Latam + Oracle]
 
 
 **Animate a probar mi Sitio Web :D**
@@ -20,7 +20,7 @@ Contraseña:
 
 **Vista previa:**
 
-![Vista previa de AluraGeek E-Commerce](/assets/img/banner/juego%20mario%20kart.jpg)
+![Vista previa de AluraGeek E-Commerce](/assets/img/banner/Captura%20de%20pantalla%202024-11-18%20082958.png)
 
 **Publicado en el topic:**
 
