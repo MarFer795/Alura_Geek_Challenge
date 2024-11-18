@@ -20,11 +20,11 @@ Contraseña:
 
 **Vista previa:**
 
-![Vista previa de AluraGeek E-Commerce](/assets/img/banner/)
+![Vista previa de AluraGeek E-Commerce](/assets/img/banner/juego%20mario%20kart.jpg)
 
 **Publicado en el topic:**
 
-https://github.com/topics/challengeonealurageeklatam
+https://github.com/MarFer795/Alura_Geek_Challenge
 
 Cuarto proyecto de Alura Latam en el que el desafío será crear mi primer E-Commerce
 dede la perspectiva real de los requerimientos de un cliente por medio de la
